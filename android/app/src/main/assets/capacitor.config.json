@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cs-demo-couchbase-lite-react",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

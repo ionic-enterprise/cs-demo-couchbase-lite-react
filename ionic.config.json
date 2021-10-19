@@ -1,0 +1,7 @@
+{
+  "name": "cs-demo-couchbase-lite-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
