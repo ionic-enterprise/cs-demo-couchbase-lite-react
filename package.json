@@ -47,7 +47,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postinstall": "husky install"
   },
   "eslintConfig": {
     "extends": [
@@ -68,7 +69,11 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "3.2.5"
+    "@capacitor/cli": "3.2.5",
+    "@ionic/prettier-config": "~2.0.0",
+    "husky": "~7.0.2",
+    "prettier": "~2.4.1",
+    "pretty-quick": "~3.1.1"
   },
   "description": "An Ionic project"
 }
