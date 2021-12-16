@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@capacitor/android": "3.2.5",
+    "@capacitor/android": "~3.3.3",
     "@capacitor/app": "1.0.5",
-    "@capacitor/core": "3.2.5",
+    "@capacitor/core": "~3.3.3",
     "@capacitor/haptics": "1.1.2",
-    "@capacitor/ios": "3.2.5",
+    "@capacitor/ios": "~3.3.3",
     "@capacitor/keyboard": "1.1.2",
     "@capacitor/status-bar": "1.0.5",
     "@ionic-enterprise/couchbase-lite": "~2.0.4",
@@ -69,7 +69,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "3.2.5",
+    "@capacitor/cli": "~3.3.3",
     "@ionic/prettier-config": "~2.0.0",
     "husky": "~7.0.2",
     "prettier": "~2.4.1",
